@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DzigiNeo1
 - 👀 I’m interested in web development jobs and internships.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on on web development projects.
+- 👌 I have very good knowledge on Html,Css,Javascript.
+- 🌱 I’m currently learning React.js.
+- 💞️ I’m looking for a job and also to collaborate on on web development projects.
 - 📫 How to reach me Dzigi_14@hotmail.com
 
 <!---

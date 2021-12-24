@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development jobs and internships.
 - 👌 I have very good knowledge on Html,Css,Javascript.
 - 🌱 I’m currently learning React.js.
-- 💞️ I’m looking for a job and also to collaborate on on web development projects.
+- 💞️ I’m looking for a job or internship and also to collaborate on on web development projects.
 - 📫 How to reach me Dzigi_14@hotmail.com
 
 <!---
